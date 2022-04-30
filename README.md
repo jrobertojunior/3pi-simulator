@@ -4,9 +4,9 @@ Simluador em C++ do robô 3Pi, da Pololu.
 
 ![alt text](screenshot.png)
 
-Este projeto gerou um artigo publicado no Congresso Brasileiro de Automática-CBA em 2019.
+Este projeto gerou um artigo publicado em 2019.
 
-[Link do artigo](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/523)
+Cite: *JUNIOR, JOSÉ ROBERTO FONSECA E. SILVA, et al. "[SIMULADOR DE CÓDIGO ABERTO PARA A PLATAFORMA POLOLU 3PI.](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/523)" Congresso Brasileiro de Automática-CBA. Vol. 1. No. 1. 2019.*
 
 *Autores*:
 * José Roberto Fonseca e Silva Junior
